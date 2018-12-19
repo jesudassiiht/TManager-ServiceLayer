@@ -1,0 +1,5 @@
+C:\Capsule\TaskManagerServices\TaskManager.Entities\bin\Debug\TaskManager.Entities.dll
+C:\Capsule\TaskManagerServices\TaskManager.Entities\bin\Debug\TaskManager.Entities.pdb
+C:\Capsule\TaskManagerServices\TaskManager.Entities\obj\Debug\TaskManager.Entities.dll
+C:\Capsule\TaskManagerServices\TaskManager.Entities\obj\Debug\TaskManager.Entities.pdb
+C:\Capsule\TaskManagerServices\TaskManager.Entities\obj\Debug\TaskManager.Entities.csprojResolveAssemblyReference.cache

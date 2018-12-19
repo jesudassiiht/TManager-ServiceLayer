@@ -1,0 +1,12 @@
+C:\Capsule\TaskManagerServices\TaskManager.Business\bin\Debug\TaskManager.Business.dll
+C:\Capsule\TaskManagerServices\TaskManager.Business\bin\Debug\TaskManager.Business.pdb
+C:\Capsule\TaskManagerServices\TaskManager.Business\bin\Debug\TaskManager.Entities.dll
+C:\Capsule\TaskManagerServices\TaskManager.Business\bin\Debug\TaskManager.Repositories.dll
+C:\Capsule\TaskManagerServices\TaskManager.Business\bin\Debug\EntityFramework.dll
+C:\Capsule\TaskManagerServices\TaskManager.Business\bin\Debug\TaskManager.Entities.pdb
+C:\Capsule\TaskManagerServices\TaskManager.Business\bin\Debug\TaskManager.Repositories.pdb
+C:\Capsule\TaskManagerServices\TaskManager.Business\bin\Debug\TaskManager.Repositories.dll.config
+C:\Capsule\TaskManagerServices\TaskManager.Business\bin\Debug\EntityFramework.xml
+C:\Capsule\TaskManagerServices\TaskManager.Business\obj\Debug\TaskManager.Business.csprojResolveAssemblyReference.cache
+C:\Capsule\TaskManagerServices\TaskManager.Business\obj\Debug\TaskManager.Business.dll
+C:\Capsule\TaskManagerServices\TaskManager.Business\obj\Debug\TaskManager.Business.pdb
